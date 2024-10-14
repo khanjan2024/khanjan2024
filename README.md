@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **khanjannath775@gmail.com**
 
-- ⚡ Fun fact **They call me nerd!**
+- ⚡ Fun fact **Aspiring Entrepreneur!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
