@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **khanjannath775@gmail.com**
 
-- ⚡ Fun fact **Aspiring Entrepreneur!**
+- ⚡ Fun fact **A Huge Barca Fan!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
