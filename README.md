@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **full-stack development & dsa**
 
+- 👨‍💻 All of my projects are available at [https://khanjannath.netlify.app/](https://khanjannath.netlify.app/)
+
 - 💬 Ask me about **developement!**
 
 - 📫 How to reach me **khanjannath775@gmail.com**
@@ -22,7 +24,6 @@
 <a href="https://codeforces.com/profile/nathkhanjan363" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nathkhanjan363" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/khanjannath12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khanjannath12" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/khanjannnzsz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="khanjannnzsz" height="30" width="40" /></a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,5 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khanjan2024&show_icons=true&locale=en" alt="khanjan2024" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khanjan2024&" alt="khanjan2024" /></p>
-
-
